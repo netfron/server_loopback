@@ -10,4 +10,5 @@ Object.defineProperty(exports, "__esModule", { value: true });
 __export(require("./todo.controller"));
 __export(require("./todo-list.controller"));
 __export(require("./todo-list-todo.controller"));
+__export(require("./users.controller"));
 //# sourceMappingURL=index.js.map
