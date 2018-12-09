@@ -1,7 +1,7 @@
 {
   "name": "mongodb",
   "connector": "mongodb",
-  "url": "mongodb://myapp_user:1234@localhost:27017/MyApp",
+  "url": "",
   "host": "localhost",
   "port": 27017,
   "user": "myapp_user",
